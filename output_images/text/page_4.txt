@@ -1,0 +1,114 @@
+[Text_1.jpg]:
+h)
+
+cash inflows that are largely independent of those from
+other assets or groups of assets. When the carrying
+amount of an asset or CGU exceeds its recoverable
+amount, the asset is considered impaired and is written
+down to its recoverable amount.
+
+In assessing value in use, the estimated future cash
+flows are discounted to their present value using
+a pre-tax discount rate that reflects current market
+assessments of the time value of money and the risks
+specific to the asset. In determining fair value less costs
+of disposal, recent market transactions are taken into
+account. If no such transactions can be identified, an
+appropriate valuation model is used. These calculations
+are corroborated by valuation multiples, quoted share
+prices for publicly traded companies or other available
+fair value indicators.
+
+The Company bases its impairment calculation on
+detailed budgets and forecast calculations, which are
+prepared separately for each of the Company's CGUs to
+which the individual assets are allocated. These budgets
+and forecast calculations generally cover a period of five
+years, For longer periods, a long-term growth rate is
+calculated and applied to project future cash flows after
+the fifth year. To estimate cash flow projections beyond
+periods covered by the most recent budgets/forecasts,
+the Company extrapolates cash flow projections in
+the budget using a steady or declining growth rate for
+subsequent years, unless an increasing rate can be
+justified. In any case, this growth rate does not exceed
+the long-term average growth rate for the products,
+industries, or country or countries in which the Company
+operates, or for the market in which the asset is used.
+
+Goodwill is tested for impairment annually and when
+circumstances indicate that the carrying value may
+be impaired. Impairment is determined for goodwill
+by assessing the recoverable amount of each CGU
+(or Company of CGUs) to which the goodwill relates.
+When the recoverable amount of the CGU is less than
+it's carrying amount, an impairment loss is recognised.
+Impairment losses relating to goodwill cannot be
+reversed in future periods.
+
+Leases
+As a lessee
+
+The Company's lease asset classes primarily consist of
+leases for land and buildings. The Company assesses
+whether a contract contains a lease, at inception of a
+contract. A contract is, or contains, a lease if the contract
+conveys the right to control the use of an identified asset
+for a period of time in exchange for consideration. To
+
+[Text_2.jpg]:
+assess whether a contract conveys the right to control
+the use of an identified asset, the Company assesses
+whether:
+
+(i) The contract involves the use of an identified asset
+
+(ii) The Company has substantially all of the economic
+benefits from use of the asset through the period of
+the lease and
+
+(iii), The Company has the right to direct the use of the
+asset.
+
+Initial Recognition
+
+The Company recognizes a right-of-use asset (ROU
+asset) and a lease liability at the lease commencement
+date. The right-of-use asset is initially measured at cost,
+which comprises the initial amount of the lease liability
+adjusted for any lease payments made at or before the
+commencement date, plus any initial direct costs incurred
+and an estimate of costs to dismantle and remove the
+underlying asset or to restore the underlying asset or
+the site on which it is located, less any lease incentives
+received.
+
+Certain lease arrangements includes the options to
+extend or terminate the lease before the end of the lease
+term. ROU assets and lease liabilities includes these
+options when it is reasonably certain that they will be
+exercised.
+
+Short-term leases and leases of low-value assets
+
+The Company has elected not to recognise right-of-use
+assets and lease liabilities for short term leases that
+have a lease term of less than 12 months. The Company
+recognises the lease payments associated with these
+leases as an expense on a straight-line basis over the
+lease term.
+
+Lease Modification
+
+A lease modification is accounted as a separate lease
+if the modification increases the scope of the lease by
+adding the right-of-use one or more underlying assets
+and the consideration for the lease increases by an
+amount commensurate with the stand-alone price for
+the increase in scope and any appropriate adjustments
+to that stand-alone price to reflect the circumstances of
+the particular contract. In calculating the present value
+of lease payments, the Company uses its incremental
+borrowing rate at the lease commencement date
+because the interest rate implicit in the lease is not
+readily determinable.

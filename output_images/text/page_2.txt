@@ -1,0 +1,117 @@
+[Text_1.jpg]:
+impairment loss allowance based on lifetime ECLs at
+each reporting date, right from its initial recognition.
+For recognition of impairment loss on other financial
+assets and risk exposure, the Company determines
+that whether there has been a significant increase in the
+credit risk since initial recognition. If credit risk has not
+increased significantly, 12-month ECL is used to provide
+for impairment loss. However, if credit risk has increased
+significantly, lifetime ECL is used. If in subsequent period,
+credit quality of the instrument improves such that there
+is no longer a significant increase in credit risk since
+initial recognition, then the entity reverts to recognizing
+impairment loss allowance based on 12 month ECL.
+Lifetime ECLs are the expected credit losses resulting
+from all possible default events over the expected life of
+a financial instrument. The 12 month ECL is a portion of
+the lifetime ECL which results from default events that
+are possible within 12 months after the reporting date.
+
+Measurement of expected Credit Losses
+
+ECL is the difference between all contractual cash flows
+that are due to the Company in accordance with the
+contract and all the cash flows that the entity expects to
+receive (i.e. all shortfalls), discounted at the original EIR.
+When estimating the cash flows, an entity is required to
+consider:
+
+« All contractual terms of the financial instrument
+(including prepayment, extension etc.) over the
+expected life of the financial instrument. However,
+in rare cases when the expected life of the financial
+instrument cannot be estimated reliably, then the
+entity is required to use the remaining contractual
+term of the financial instrument.
+
+« Cash flows from the sale of collateral held or
+other credit enhancements that are integral to the
+contractual terms.
+
+Presentation of allowance for expected credit losses
+in the balance sheet
+
+Loss allowances for financial assets measured at
+
+amortized cost are deducted from the gross carrying
+amount of the assets.
+
+Write-off
+
+The gross carrying amount of a financial asset is written
+off (either partially or in full) to the extent that there is no
+realistic prospect of recovery. This is generally the case
+when the Company determines that the debtor does not
+have assets or sources of income that could generate
+sufficient cash flows to repay the amounts subject to the
+write-off. However, financial assets that are written off
+could still be subject to enforcement activities in order
+
+[Text_2.jpg]:
+(ii)
+
+to comply with the Company's procedures for recovery
+of amounts due.
+
+Impairment of non-financial assets
+
+At each reporting date, the Company reviews the
+carrying amounts of its non-financial assets (other than
+deferred tax assets) to determine whether there is any
+indication of impairment. If any such indication exists,
+then the asset's recoverable amount is estimated. For
+impairment testing, assets are grouped together into the
+smallest Company of assets that generates the cash
+inflows from continuing use that are largely independent
+of the cash inflows of other assets or Cash Generating
+Units (‘CGU’). The recoverable amount of a CGU (or an
+individual asset) is the higher of its value in use and its
+fair value less costs to sell.
+
+Value in use is based on the estimated future cash
+flows, discounted to their present value using a pre-tax
+discount rate that reflects current market assessments
+of time value of money and the risks specific to the CGU
+(or the asset). Where it is not possible to estimate the
+recoverable amount of the individual asset, the Company
+estimates the recoverable amount of the CGU to which
+the asset belongs. An impairment loss is recognized if
+the carrying amount of an asset or CGU exceeds its
+recoverable amount.
+
+Impairment loss in respect of assets except goodwill
+is reversed only to the extent that the assets carrying
+amount does not exceed the carrying amount that
+would have been determined, net of depreciation or
+amortization, if no impairment loss had been recognized
+in prior years. A reversal of impairment loss is recognized
+immediately in the Statement of Profit or Loss.
+
+Property, plant and equipment
+Recognition and measurement
+
+Items of property, plant and equipment are measured at
+cost, which includes capitalized borrowing costs, less
+accumulated depreciation and accumulated impairment
+losses, if any.
+
+Cost of an item of property, plant and equipment
+comprises its purchase price, including import duties and
+non-refundable purchase taxes, after deducting trade
+discounts and rebates, any directly attributable cost of
+bringing the item to its working condition for its intended
+use and estimated costs of dismantling and removing the
+item and restoring the site on which it is located. Repairs
+and maintenance costs are recognised in the Statement
+of Profit and Loss when incurred.
