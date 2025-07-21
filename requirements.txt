@@ -1,10 +1,7 @@
+# yolo and label studios
 ultralytics
 label-studio
-
-PyMuPDF
-pandas
-pdfplumber
-easyocr
+pymupdf
 
 torch
 torchvision
@@ -15,4 +12,23 @@ pandas
 opencv-python
 numpy
 
+# ocr
 pytesseract
+easyocr
+paddlepaddle 
+paddleocr
+
+python-dotenv
+matplotlib
+
+
+# langchain
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+
+
+PyPDF2
+imutils
+transformers
