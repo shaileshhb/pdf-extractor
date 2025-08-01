@@ -2,7 +2,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 import re
 from pathlib import Path
-from llm.gemini import fill_observations
+from llm.wrapper import fill_observations
 from models.financial_models import NotesWrapper
 
 # 1. Load from the folder where you saved
@@ -51,7 +51,7 @@ def predict_note_header(text: str) -> dict:
 
 
 def process_notes(notes_text):
-    print("=== processing notes ===", len(notes_text))
+    print(f"[INFO] Processing {len(notes_text)} notes...")
     extracted_notes = {}
     note_text = []
     current_note_number = 0
@@ -67,7 +67,6 @@ def process_notes(notes_text):
                     "note_no": current_note_number,
                     "description": description,
                     "observation": "",
-                    # "html_str": description,
                 }
                 note_text = []
                 note_num = extract_note_number(text)
@@ -89,14 +88,13 @@ def process_notes(notes_text):
             "note_no": current_note_number,
             "description": description,
             "observation": "",
-            # "html_str": description,
         }
 
     notes = {}
     notes["notes"] = extracted_notes
 
-    updated_notes = fill_observations(NotesWrapper(**notes))
-    notes["notes"] = updated_notes
+    # updated_notes = fill_observations(NotesWrapper(**notes))
+    # notes["notes"] = updated_notes
 
     return notes["notes"]
 

@@ -1,44 +1,51 @@
 from langchain.output_parsers import PydanticOutputParser
 from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
+from models.financial_models import NotesWrapper
+from dotenv import load_dotenv
 import re
 
-from models.financial_models import NotesWrapper
+# Load environment variables
+load_dotenv()
 
-model = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0)
-
+# model = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0)
+model = ChatOpenAI(model="gpt-4o", temperature=0.4)
 
 def recreate_html_table(extracted_text):
     prompt_template = ChatPromptTemplate.from_template(
-        """
-        You are a reliable assistant that reconstructs HTML tables from raw OCR-extracted text.
+    """
+    You are given text extracted from a PDF file, which originally contained a table. 
+    Reconstruct it into clean, semantic HTML that represents the original layout as closely as possible.
 
-        The input is text extracted from a scanned table in a company’s annual report.
-        The formatting has been lost, but the structure should be reconstructed accurately.
+    Follow these rules:
 
-        Your task are:
-        - Carefully read the provided note description.
-        - Parse the input text and convert it into structured HTML using:
-        - <h1>, <h2>, etc. for **section titles or headings**
-        - <table>, <thead>, <tbody>, <tr>, <th>, and <td> for **tabular data**
-        - Detect and preserve any **non-tabular headings** or **titles** by wrapping them in heading tags (<h4> for main titles, <h5> for subtitles, etc.) based on their appearance or position.
-        - Ensure **all rows and columns** from the original text are included in the output. **Do not skip or truncate** any rows.
-        - **Do not add, modify, or guess any data** — use only the text given.
-        - Convert the **actual table** into valid HTML:
-        - Use the first row of the table as the header and place it inside <thead>.
-        - Place all remaining rows inside <tbody>.
-        - Maintain the **original order of rows and columns**.
-        - Ensure the **umber of columns remains consistent** across rows. Add empty <td></td> cells if needed.
-        - Use **only** the content provided. Do not **fabricate, infer, or alter** any data.
-        - Output a **single, complete block of valid HTML** that includes both headings and the table.
-        - Do not include any additional explanation or comments — output only the HTML.
-        - Do not explain anything. Return **only the HTML table**, with no extra commentary.
-        - Return only the complete HTML table. Do **not** include any explanations, summaries, or additional text.
+    1. **Preserve narrative text** before or after the table as `<p>` tags.  
+    2. **Build table structure** with `<table>`, `<thead>`, `<tbody>`, `<tr>`, `<th>`, and `<td>`.  
+    3. **Headers**:
+    - If there are multi-level headers, use multiple `<tr>` rows in `<thead>` with proper `colspan`/`rowspan`.  
+    - Ensure `colspan` matches the number of underlying columns.  
+    - Use `<br>` inside `<th>` for long headers if needed.
+    4. **Row hierarchy**:
+    - If there are grouped rows (e.g., Employees → Permanent → Male/Female), show hierarchy by prefixing sub-level rows with `&nbsp;&nbsp;` or making parent rows bold.  
+    - Include “Total” rows where present and make them bold.
+    5. **Grouped parameters**:
+    - If rows have sub-rows (e.g., “No treatment” vs “With treatment”), expand them as separate rows with full context in each cell (Destination + Treatment).  
+    6. **Values**:
+    - Retain values exactly as extracted (e.g., `NIL`, `NA`, `0.00`).  
+    - Leave empty `<td>` for missing data.  
+    7. **Footnotes**:
+    - Extract footnotes or annotations (`*`, `^`) and place them as `<p><em>…</em></p>` after the table.
+    8. **Totals**:
+    - Clearly highlight total rows with `<strong>` (or place them in a `<tfoot>` if appropriate).
+    9. **Do not infer or invent data**. Only structure what is present.
+    10. **Hierarchy Detection:** 
+        - Detect hierarchical relationships from the text (e.g., categories with subcategories or numbered sections like (i), (ii)). 
+        - Render parent categories in bold, and indent subcategories using `&nbsp;&nbsp;`. 
+        - Do NOT assume or add groupings that are not explicitly present in the text.
 
-        Here is the extracted text:
-        ---
-        {extracted_text}
-        ---
+    Here is the extracted text:
+    {extracted_text}
     """
     )
 

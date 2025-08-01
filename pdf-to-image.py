@@ -2,8 +2,8 @@ from pdf2image import convert_from_path
 import os
 
 # === Configuration ===
-pdf_path = 'docs/cams.pdf'               # Path to your PDF file
-output_folder = 'docs/cams'       # Folder to save images
+pdf_path = 'docs/fixed.pdf'
+output_folder = 'docs/hdfc'       # Folder to save images
 dpi = 200                             # Image quality (recommended: 200+)
 
 # === Ensure output folder exists ===

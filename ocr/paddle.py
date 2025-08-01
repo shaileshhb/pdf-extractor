@@ -1,7 +1,7 @@
 from paddleocr import PaddleOCR, PPStructureV3
 import re
 from pathlib import Path
-from llm.gemini import recreate_html_table
+from llm.wrapper import recreate_html_table
 
 
 text_rec_path = Path(__file__).parent.parent / "ai_models" / \
@@ -126,15 +126,30 @@ table_model = PPStructureV3(
 def extract_text(image):
     try:
         result = text_model.predict(image)
-        extracted = result[0]['rec_texts']
+        if not result or not isinstance(result, list) or len(result) == 0:
+            print("[OCR ERROR] No result returned from text_model.predict.")
+            return ""
+        if 'rec_texts' not in result[0] or not result[0]['rec_texts']:
+            print("[OCR ERROR] 'rec_texts' missing or empty in result.")
+            return ""
+        extracted = "\n".join(result[0]['rec_texts'])
         return extracted
     except Exception as e:
         print(f"[OCR ERROR] {e}")
+        return ""
 
 
 def extract_table(img):
     try:
         result = text_model.predict(img)
+        if not result or not isinstance(result, list) or len(result) == 0:
+            print("[OCR ERROR] No result returned from text_model.predict.")
+            return ""
+        if 'rec_texts' not in result[0] or not result[0]['rec_texts']:
+            print("[OCR ERROR] 'rec_texts' missing or empty in result.")
+            return ""
+        
+        # return "\n".join(result[0]['rec_texts'])
         extracted = result[0]['rec_texts']
         html_table = recreate_html_table(extracted)
         return html_table

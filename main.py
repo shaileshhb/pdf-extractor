@@ -40,15 +40,15 @@ def draw_boxes_on_image(image, detections):
     return image
 
 
-def crop_and_save(image, detections, page_num, base_output_dir):
+def extract_data(image, detections, page_num, base_output_dir):
     """
     Crop detected regions and save them. Also run OCR on 'Text' regions.
     """
     text_dir = os.path.join(base_output_dir, "text")
-    # table_dir = os.path.join(base_output_dir, "tables")
+    cropped_dir = os.path.join(base_output_dir, "crop")
 
     os.makedirs(text_dir, exist_ok=True)
-    # os.makedirs(table_dir, exist_ok=True)
+    os.makedirs(cropped_dir, exist_ok=True)
 
     text_output_path = os.path.join(text_dir, f"page_{page_num + 1}.txt")
     text_lines = []
@@ -96,7 +96,7 @@ def crop_and_save(image, detections, page_num, base_output_dir):
 
 def generate_yolo_detections(
         pdf_path: str, model_path: str, output_dir: str = "output_images",
-        dpi: int = 300, conf_threshold: float = 0.25,
+        dpi: int = 300, conf_threshold: float = 0.80,
         image_format: str = "jpg", save_json: bool = True,
         pages: list[int] = None, start_page: int = 0, end_page: int = None):
     """
@@ -132,7 +132,7 @@ def generate_yolo_detections(
     if pages:
         selected_pages = [p for p in pages if start_page <= p < end_page]
     else:
-        selected_pages = range(start_page, end_page)
+        selected_pages = range(start_page-1, end_page)
 
     for page_num in selected_pages:
         if page_num >= end_page:
@@ -164,8 +164,14 @@ def generate_yolo_detections(
                 "confidence": float(confs[i])
             })
 
-        section_text = crop_and_save(image, detections, page_num, output_dir)
-        text_lines.append(section_text)
+        if detections:  # Only process images with at least one high-confidence detection    
+            section_text = extract_data(image, detections, page_num, output_dir)
+            text_lines.append(section_text)
+            annotated = draw_boxes_on_image(image, detections)
+            img_file = os.path.join(
+                output_dir, f"page_{page_num + 1}.{image_format}")
+            cv2.imwrite(img_file, annotated)
+            print(f"[INFO] Saved: {img_file}\n")
         results_dict[page_num] = detections
 
     doc.close()
@@ -175,7 +181,7 @@ def generate_yolo_detections(
 
 
 def process_pdf(pdf_path, model_path, output_dir="output_images",
-                dpi=300, conf_threshold=0.25, image_format="png",
+                dpi=300, conf_threshold=0.80, image_format="png",
                 save_json=True, pages=None, start_page=0, end_page=None):
     """
     Main function to process the PDF and generate YOLO detections.
@@ -209,39 +215,16 @@ if __name__ == '__main__':
     PDF_INPUT_PATH = "docs/fixed.pdf"
     YOLO_MODEL_PATH = "ai_models/layout_detection.pt"
 
-    fixed_path = detect_and_fix_pdf(PDF_INPUT_PATH, "./docs/fixed.pdf", 90)
+    # fixed_path = detect_and_fix_pdf(PDF_INPUT_PATH, "./docs/fixed.pdf", 90)
 
     notes = process_pdf(
         pdf_path=PDF_INPUT_PATH,
         model_path=YOLO_MODEL_PATH,
         dpi=200,
-        conf_threshold=0.3,
-        start_page=179, end_page=240,
+        conf_threshold=0.75,
+        start_page=190, end_page=240,
     )
 
-    # notes = generate_yolo_detections(
-    #     pdf_path=PDF_INPUT_PATH,
-    #     model_path=YOLO_MODEL_PATH,
-    #     conf_threshold=0.3,
-    #     dpi=200,
-    #     output_dir="output_images",
-    #     image_format="png",
-    #     start_page=186, end_page=190
-    #     # start_page=174, end_page=225
-    # )
-
-    # if detections:
-    #     print("\n--- Detection Summary ---")
-    #     for page, items in detections.items():
-    #         print(f"\nPage {page + 1}:")
-    #         if not items:
-    #             print("  No layouts detected.")
-    #         for det in items:
-    #             print(
-    #                 f"  - {det['label']} ({det['confidence']:.2f}): {det['box']}")
-    # else:
-    # print("[INFO] Notes - ", notes)
-       
     json_path = os.path.join("./output_images", "notes.json")
     with open(json_path, "w") as f:
         json.dump(notes, f, indent=2)
