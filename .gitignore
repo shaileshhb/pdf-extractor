@@ -175,13 +175,6 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-docs/chambal/
-docs/cams
-docs/cams.pdf
-docs/chambal-fertilizers-report.pdf
-docs/ppl_annual_report.pdf
-
-
 my_model.zip
 
 yolo-images
@@ -190,3 +183,9 @@ runs
 
 ai_models
 zip_files
+docs
+prompts.txt
+results
+
+docs
+approach_paddleocr

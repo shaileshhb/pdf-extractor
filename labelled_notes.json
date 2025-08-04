@@ -1,0 +1,3046 @@
+[
+  {
+    "text": "<h3>3.1 Intangible assets under development</h3>",
+    "label": 1
+  },
+  {
+    "text": "<table border=\"1\" cellspacing=\"0\" cellpadding=\"5\">",
+    "label": 0
+  },
+  {
+    "text": "<thead>",
+    "label": 0
+  },
+  {
+    "text": "<tr style=\"background-color: #c9d1de\">",
+    "label": 0
+  },
+  {
+    "text": "<th>Particulars</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>As at<br />March 31, 2025</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>As at<br />March 31, 2024</th>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "</thead>",
+    "label": 0
+  },
+  {
+    "text": "<tbody>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>Software under development</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>-</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>382.23</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>Total</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td>-</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>382.23</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "</tbody>",
+    "label": 0
+  },
+  {
+    "text": "</table>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Movement of Intangible assets under development</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<table border=\"1\" cellspacing=\"0\" cellpadding=\"5\">",
+    "label": 0
+  },
+  {
+    "text": "<thead>",
+    "label": 0
+  },
+  {
+    "text": "<tr style=\"background-color: #c9d1de\">",
+    "label": 0
+  },
+  {
+    "text": "<th>Particulars</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>Balance as at<br />April 1, 2023</th>",
+    "label": 0
+  },
+  {
+    "text": "<h3>4. Investments in subsidiaries and associate</h3>",
+    "label": 1
+  },
+  {
+    "text": "<table>",
+    "label": 0
+  },
+  {
+    "text": "<thead>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<th>Particulars</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>As at March 31, 2025</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>As at March 31, 2024</th>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "</thead>",
+    "label": 0
+  },
+  {
+    "text": "<tbody>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<th colspan=\"3\">Un-quoted investments (measured at cost)</th>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>a. Investments in equity instruments (Subsidiaries)</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td></td>",
+    "label": 0
+  },
+  {
+    "text": "<td></td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>CDSL Ventures Limited (Fully paid equity shares of \u20b9 10 each)</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>2,100.00</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>2,100.00</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>",
+    "label": 0
+  },
+  {
+    "text": "Centrico Insurance Repository Limited (Formerly known as \"CDSL Insurance Repository Limited\") (Fully paid equity",
+    "label": 0
+  },
+  {
+    "text": "shares of \u20b9 10 each)",
+    "label": 0
+  },
+  {
+    "text": "</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>1,530.00</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>1,530.00</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>",
+    "label": 0
+  },
+  {
+    "text": "Countrywide Commodity Repository Limited (Formerly known as \"CDSL Commodity Repository Limited\") (Fully paid",
+    "label": 0
+  },
+  {
+    "text": "equity shares of \u20b9 10 each)",
+    "label": 0
+  },
+  {
+    "text": "</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>2,600.00</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>2,600.00</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>Total Investments in equity instruments (Subsidiaries) (A)</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td>6,230.00</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>6,230.00</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>b. Investments in equity instruments (Associate)</b></td>",
+    "label": 0
+  },
+  {
+    "text": "Centrico Insurance Repository Limited (Formerly known as \"CDSL Insurance Repository Limited\") (Fully paid equity",
+    "label": 0
+  },
+  {
+    "text": "shares of \u20b9 10 each)",
+    "label": 0
+  },
+  {
+    "text": "Countrywide Commodity Repository Limited (Formerly known as \"CDSL Commodity Repository Limited\") (Fully paid",
+    "label": 0
+  },
+  {
+    "text": "equity shares of \u20b9 10 each)",
+    "label": 0
+  },
+  {
+    "text": "<h3>7. Other financial assets (at amortised cost)</h3>",
+    "label": 1
+  },
+  {
+    "text": "<table>",
+    "label": 0
+  },
+  {
+    "text": "<thead>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<th>Particulars</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>As at<br />March 31, 2025</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>As at<br />March 31, 2024</th>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "</thead>",
+    "label": 0
+  },
+  {
+    "text": "<tbody>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><strong>Non-current</strong></td>",
+    "label": 0
+  },
+  {
+    "text": "<td></td>",
+    "label": 0
+  },
+  {
+    "text": "<td></td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>Sundry deposits - Unsecured, considered good</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>14.76</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>13.52</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>",
+    "label": 0
+  },
+  {
+    "text": "Bank balance in deposit accounts (Earmarked \u20b9 819.34 Lakh (Previous year \u20b9 930.94 Lakh)) (Refer Note 44)",
+    "label": 0
+  },
+  {
+    "text": "</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>819.34</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>930.94</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>",
+    "label": 0
+  },
+  {
+    "text": "Accrued interest - Bank Deposits (Earmarked \u20b9 40.03 Lakh (Previous year \u20b9 59.81 Lakh)) (Refer Note 44)",
+    "label": 0
+  },
+  {
+    "text": "</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>67.52</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>85.20</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><strong>Total</strong></td>",
+    "label": 0
+  },
+  {
+    "text": "<td><strong>901.62</strong></td>",
+    "label": 0
+  },
+  {
+    "text": "<td><strong>1,029.66</strong></td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><strong>Current</strong></td>",
+    "label": 0
+  },
+  {
+    "text": "<td></td>",
+    "label": 0
+  },
+  {
+    "text": "<td></td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>Other Receivable (From related parties \u20b9 Nil (Previous year \u20b9 3.23 Lakh))(Refer note 33)</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>12.02</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>7.11</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>Sundry deposits - Unsecured, considered good</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>189.65</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>167.33</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>Interest accrued but not due on bonds</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>429.66</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>361.73</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>",
+    "label": 0
+  },
+  {
+    "text": "Bank balance in deposit accounts (Earmarked \u20b9 855.94 Lakh (Previous year \u20b9 3,575.06 Lakh)) (Refer Note",
+    "label": 0
+  },
+  {
+    "text": "44)",
+    "label": 0
+  },
+  {
+    "text": "</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>855.94</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>3,575.06</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>",
+    "label": 0
+  },
+  {
+    "text": "Accrued interest - Bank Deposits (Earmarked \u20b9 115.73 Lakh (Previous year \u20b9 227.65 Lakh)) (Refer Note 44)",
+    "label": 0
+  },
+  {
+    "text": "</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>115.73</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>227.91</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><strong>Total</strong></td>",
+    "label": 0
+  },
+  {
+    "text": "<td><strong>1,603.00</strong></td>",
+    "label": 0
+  },
+  {
+    "text": "<td><strong>4,339.14</strong></td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "</tbody>",
+    "label": 0
+  },
+  {
+    "text": "</table>",
+    "label": 0
+  },
+  {
+    "text": "</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td colspan=\"3\">",
+    "label": 0
+  },
+  {
+    "text": "<h3>8. Deferred tax liabilities (Net)</h3>",
+    "label": 1
+  },
+  {
+    "text": "<table>",
+    "label": 0
+  },
+  {
+    "text": "<thead>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<th>Particulars</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>As at<br />March 31, 2025</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>As at<br />March 31, 2024</th>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "</thead>",
+    "label": 0
+  },
+  {
+    "text": "<tbody>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>Deferred tax liabilities</td>",
+    "label": 0
+  },
+  {
+    "text": "<table>",
+    "label": 0
+  },
+  {
+    "text": "<caption>",
+    "label": 0
+  },
+  {
+    "text": "<b>Deferred tax assets / (liabilities) in relation to:</b>",
+    "label": 0
+  },
+  {
+    "text": "<h3>9. Income tax asset and liabilities</h3>",
+    "label": 1
+  },
+  {
+    "text": "<table>",
+    "label": 0
+  },
+  {
+    "text": "<thead>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<th>Particulars</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>As at March 31, 2025</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>As at March 31, 2024</th>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "</thead>",
+    "label": 0
+  },
+  {
+    "text": "<tbody>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<th colspan=\"3\">Non-current tax assets (net)</th>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>Advance income tax (net off provision for tax \u20b9 10,887.26 lakh (Previous year \u20b9 20,413.34 Lakh))</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>538.56</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>1,194.10</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>Total</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>538.56</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>1194.10</b></td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<h3>10. Other Assets</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h2>SCHEDULES TO THE STANDLONE BALANCE SHEET</h2>",
+    "label": 0
+  },
+  {
+    "text": "<p>As at March 31, 2025</p>",
+    "label": 0
+  },
+  {
+    "text": "",
+    "label": 0
+  },
+  {
+    "text": "<h3><a>SCHEDULE 3 - DEPOSITS</a></h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3><a>SCHEDULE 4 - BORROWINGS</a></h3>",
+    "label": 1
+  },
+  {
+    "text": "    <tr><td><b>I. Borrowings in India</b></td><td></td><td></td></tr>",
+    "label": 0
+  },
+  {
+    "text": "    <tr><td><i>(i)</i> Reserve Bank of India</td><td>63,350,000</td><td>45,560,000</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "    <tr><td><i>(ii)</i> Other banks</td><td>498,422,662</td><td>1,158,049,831</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "    <tr><td><i>(iii)</i> Other institutions and agencies</td><td>1,070,858,321</td><td>1,387,550,400</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "    <tr><td><i>(iv)</i> Tier 1 and Tier 2 capital instruments</td><td>250,761,891</td><td>250,536,249</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "    <tr><td><i>(v)</i> Other bonds and debentures</td><td>2,391,764,562</td><td>2,710,439,699</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "    <tr><td><b>Total</b></td><td><b>4,275,157,436</b></td><td><b>5,552,136,179</b></td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<h2>SCHEDULE 5 - OTHER LIABILITIES AND PROVISIONS</h2>",
+    "label": 1
+  },
+  {
+    "text": "      <th>Schedule</th>",
+    "label": 0
+  },
+  {
+    "text": "      <th>As at<br><b>March 31, 2025</b></th>",
+    "label": 0
+  },
+  {
+    "text": "      <th>As at<br><b>March 31, 2024</b></th>",
+    "label": 0
+  },
+  {
+    "text": "<h2>SCHEDULE 6 - CASH AND BALANCES WITH RESERVE BANK OF INDIA</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h2>SCHEDULE 7 - BALANCES WITH BANKS AND MONEY AT CALL AND SHORT NOTICE</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h2>SCHEDULES TO THE STANDLONE BALANCE SHEET</h2>",
+    "label": 1
+  },
+  {
+    "text": "<p>As at March 31, 2025</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><a href=\"#schedule8\" style=\"color:#0088cc;\">SCHEDULE 8 - INVESTMENTS</a></h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3><a href=\"#schedule9\" style=\"color:#0088cc;\">SCHEDULE 9 - ADVANCES</a></h3>",
+    "label": 1
+  },
+  {
+    "text": "<p style=\"color:#0077cc; margin-top:20px;\"><b>SCHEDULE 10 - FIXED ASSETS</b></p>",
+    "label": 1
+  },
+  {
+    "text": "<h3 style=\"color:#0099ff;\">SCHEDULE 11 - OTHER ASSETS</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h2>SCHEDULE 12 - CONTINGENT LIABILITIES</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h2><b>SCHEDULES TO THE STANDLONE PROFIT AND LOSS ACCOUNT</b></h2>",
+    "label": 0
+  },
+  {
+    "text": "<p>For the year ended March 31, 2025</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><span style=\"color:#0089d1;\">SCHEDULE 13 - INTEREST EARNED</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3><span style=\"color:#0089d1;\">SCHEDULE 14 - OTHER INCOME</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "<table>",
+    "label": 0
+  },
+  {
+    "text": "  <thead>",
+    "label": 0
+  },
+  {
+    "text": "    <tr>",
+    "label": 0
+  },
+  {
+    "text": "      <th>Schedule</th>",
+    "label": 0
+  },
+  {
+    "text": "      <th style=\"background-color:#004e80; color:#ffffff;\">Year ended<br>March 31, 2025</th>",
+    "label": 0
+  },
+  {
+    "text": "      <th>Year ended<br>March 31, 2024</th>",
+    "label": 0
+  },
+  {
+    "text": "    </tr>",
+    "label": 0
+  },
+  {
+    "text": "  </thead>",
+    "label": 0
+  },
+  {
+    "text": "<h3><span style=\"color:#0089d1;\">SCHEDULE 15 - INTEREST EXPENDED</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3><span style=\"color:#0089d1;\">SCHEDULE 16 - OPERATING EXPENSES</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "<p><b><u>SCHEDULE 17 – Significant accounting policies appended to and forming part of the standalone financial statements for the year ended March 31, 2025</u></b></p>",
+    "label": 1
+  },
+  {
+    "text": "<h3><a href=\"#\">SCHEDULE 18 - Schedules forming part of the standalone financial statements for the year ended March 31, 2025</a></h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3>1. <b>Amalgamation of HDFC Limited</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>The Board of Directors at its meeting held on April 04, 2022, approved a composite Scheme of amalgamation (“Scheme”), for the amalgamation of: (i) erstwhile HDFC Investments Limited (“eHDFC Investments”) and erstwhile HDFC Holdings Limited (“eHDFC Holdings”), with and into erstwhile Housing Development Finance Corporation Limited (“eHDFC Limited”); and thereafter (ii) eHDFC Limited into HDFC Bank Limited (“Bank”), and their respective shareholders and creditors, under Sections 230 to 232 of the Companies Act, 2013 and other applicable laws including the rules and regulations. The Scheme was approved by the shareholders at the National Company Law Tribunal (“NCLT”) convened meeting of the shareholders of the Bank held on November 25, 2022. The NCLT, in accordance with Sections 230 to 232 of the Companies Act, 2013 and rules thereunder, vide its order dated March 17, 2023 sanctioned the Scheme. Upon receipt of all requisite approvals, the Bank filed form INC 28 with Registrar of Companies on July 01, 2023 and accordingly, the Scheme became effective on July 01, 2023. As per the Scheme, the appointed date for the amalgamation of eHDFC Limited with and into the Bank is the same as effective date of the Scheme i.e. July 01, 2023. The Profit and Loss Account for the year ended March 31, 2025 include the operations of eHDFC Limited which amalgamated with and into HDFC Bank on July 01, 2023 and hence are not comparable with the Profit and Loss Account for the year ended March 31, 2024.</p>",
+    "label": 0
+  },
+  {
+    "text": "<p>Summarized values of assets and liabilities taken over as at July 01, 2023 in accordance with the terms of the Scheme is as detailed below:</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>2.</b> Proposed dividend</h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>The Board of Directors at its meeting held on April 19, 2025 proposed a dividend of ₹ 22.00 per equity share (previous year: ₹ 19.50 per equity share) aggregating to ₹ 16,834.89 crore subject to the approval of shareholders at the ensuing Annual General Meeting. During the year ended March 31, 2025, the dividend paid by the Bank in respect of the previous year ended March 31, 2024 was ₹ 14,826.19 crore. In terms of the AS-4 “Contingencies and events occurring after the balance sheet date”, the Bank has not appropriated the proposed dividend from the Profit and Loss Account and the same will be recognised in the year of actual payout post approval. However, effect of the proposed dividend has been reckoned in determining capital funds in computation of the capital adequacy ratio.</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>3.</b> Change in accounting policy</h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>The RBI, vide its master direction dated September 12, 2023, issued revised norms (herein after referred as ‘revised norms on investments’) for the classification, valuation and operation of investment portfolio of banks, which became applicable from April 01, 2024. While hitherto, the investment portfolio was classified under the Held to Maturity (HTM), Available for Sale (AFS) and Held for Trading (HFT) categories, the revised norms bring in a principle-based classification of investment portfolio and a symmetric treatment of fair value gains and losses. In accordance with the revised norms and the Bank’s board approved policy, the Bank has classified its investment portfolio as on April 01, 2024 under the categories of Held to Maturity (HTM), Available for Sale (AFS), subsidiaries, associates and joint ventures and Fair Value Through Profit and Loss (FVTPL) with Held for Trading (HFT) as a sub-category of FVTPL, and from that date, measures and values the investment portfolio under the revised framework. On transition to the framework on April 01, 2024, the Bank has recognised a net gain of ₹ 482.87 crore (net of tax of ₹ 127.00 crore) which has been credited to general reserve, in accordance with the said norms. The impact of the revised framework subsequent to the transition is not ascertainable and as such the income / profit or loss from investments for the year ended March 31, 2025, is not comparable with that of the previous year.</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>4.</b> Capital adequacy</h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>The Bank’s capital to risk-weighted assets ratio (‘Capital Adequacy Ratio’) is calculated in accordance with the RBI guidelines on Basel III capital regulations (‘Basel III’). The minimum capital ratio requirement under Basel III as at March 31, 2025 and March 31, 2024 is as follows:</p>",
+    "label": 0
+  },
+  {
+    "text": "<hr>",
+    "label": 0
+  },
+  {
+    "text": "<h3>SCHEDULES TO THE STANDALONE FINANCIAL STATEMENTS</h3>",
+    "label": 0
+  },
+  {
+    "text": "<p>For the year ended March 31, 2025</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3>5. Employees Stock Options Outstanding</h3>",
+    "label": 1
+  },
+  {
+    "text": "<p><b>Accounting for employee share based payments</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<h2><b>SCHEDULES TO THE STANDALONE FINANCIAL STATEMENTS</b></h2>",
+    "label": 0
+  },
+  {
+    "text": "<p><i>For the year ended March 31, 2025</i></p>",
+    "label": 0
+  },
+  {
+    "text": "<h2>6. <b>Reserves and Surplus</b></h2>",
+    "label": 1
+  },
+  {
+    "text": "<h3>General Reserve</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Statutory Reserve</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Amalgamation Reserve I</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Amalgamation Reserve II</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Capital Reserve</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Investment Reserve Account</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h2>10. Asset quality</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h2>11. Details of exposures to real estate and capital market sectors, risk category-wise country exposures, unsecured advances, details of factoring exposures, intra-Group exposure, unhedged foreign currency exposure, details of single counterparty limit / limit for group of connected counterparties exceeded by the bank, inter-bank participation with risk sharing.</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h2>12. Derivatives</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h3>14. <b>Off-Balance Sheet SPVs</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "<h2>15. Transfers to Depositor Education and Awareness Fund (DEA Fund)</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h2>16. Disclosure for complaints and grievance redress</h2>",
+    "label": 1
+  },
+  {
+    "text": "<p>Summary information on complaints received by the Bank from the customers and from the Office of Ombudsman.</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3 id=\"17\"><b>17. Penalties levied by the RBI</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>18. Disclosures on remuneration</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "<p><b>Qualitative Disclosures</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>A. Information relating to the bodies that oversee remuneration</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<h2>19. Other disclosures</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h3>19.1 Business ratios / information</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>19.2 Bancassurance business</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>19.3 Marketing and distribution</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>19.4 Details of Priority Sector Lending Certificates (PSLCs)</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>19.6 Implementation of IFRS converged Indian Accounting Standards</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>19.9 Portfolio-level information on the use of funds raised from green deposits</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "<h2><a name=\"20\"></a><b>20. Other liabilities</b></h2>",
+    "label": 1
+  },
+  {
+    "text": "  <h2><b>21. Other fixed assets</b></h2>",
+    "label": 1
+  },
+  {
+    "text": "  <h2><b>22. Other assets</b></h2>",
+    "label": 1
+  },
+  {
+    "text": "<h3>23. Non-banking assets acquired in satisfaction of claims (NBA)</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3>24. Interest earned</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h2>25. Other income</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h2>26. Other expenditure</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h2><span style=\"color:#0066b3;\">27. Employee benefits</span></h2>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Gratuity</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<h2><a id=\"segment-reporting\" name=\"segment-reporting\"></a>28. Segment reporting</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h3>Business segments</h3>",
+    "label": 0
+  },
+  {
+    "text": "  <li><b>Treasury</b>",
+    "label": 0
+  },
+  {
+    "text": "  <li><b>Retail banking</b>",
+    "label": 0
+  },
+  {
+    "text": "<h2>29. Related party disclosures</h2>",
+    "label": 1
+  },
+  {
+    "text": "<p><b>Subsidiaries</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Welfare Trust of the Bank</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Key management personnel</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p>Mr. Sashidhar Jagdishan, Managing Director and Chief Executive Officer</p>",
+    "label": 0
+  },
+  {
+    "text": "<p>Mr. Kaizad Bharucha, Deputy Managing Director</p>",
+    "label": 0
+  },
+  {
+    "text": "<p>Mr. Bhavesh Zaveri, Executive Director</p>",
+    "label": 0
+  },
+  {
+    "text": "<p>Mr. V. Srinivasa Rangan, Executive Director</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>30. Leases</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>Operating leases primarily comprise office premises, staff residences and Automated Teller Machines (‘ATM’s), which are renewable at the option of the Bank.</p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Lease Payments</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p>The details of maturity profile of future operating lease payments are given below:</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><a name=\"31\"></a>31. Earnings per equity share</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h2>32. Provisions and contingent liabilities</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h3>a) <b>Provision for credit card and debit card reward points</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>b) <b>Provision for legal and other contingencies</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>c) <b>Description of contingent liabilities</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "<p><i>*Also refer Schedule 12 - Contingent liabilities</i></p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>33.</b> Small and micro industries</h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>Under the Micro, Small and Medium Enterprises Development Act, 2006 which came into force from October 02, 2006, certain disclosures are required to be made relating to Micro, Small and Medium enterprises. There have been no reported cases of delays in payments to micro and small enterprises or of interest payments due to delays in such payments during the years ended March 31, 2025 and March 31, 2024. The above is based on the information available with the Bank which has been relied upon by the auditors.</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>34.</b> Corporate social responsibility</h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>The details of Corporate Social Responsibility (CSR) activities carried out in line with the CSR Policy of the Bank are given below:</p>",
+    "label": 0
+  },
+  {
+    "text": "<p><i>* Indicates the amount disbursed by the Bank during the financial year.</i></p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>35.</b> Investor education and protection fund</h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>There has been no delay in transferring amounts, required to be transferred to the Investor Education and Protection Fund by the Bank during the year ended March 31, 2025 and March 31, 2024.</p>",
+    "label": 0
+  },
+  {
+    "text": "<hr>",
+    "label": 0
+  },
+  {
+    "text": "<h2><b>SCHEDULES TO THE STANDALONE FINANCIAL STATEMENTS</b></h2>",
+    "label": 0
+  },
+  {
+    "text": "<p><i>For the year ended March 31, 2025</i></p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><a href=\"#_36\" style=\"color:#003399;\">36. Disclosure under Rule 11 (e) of the Companies (Audit and Auditors) Rules, 2014</a></h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>The Bank, as part of its normal banking business, grants loans and advances to its constituents including foreign entities with permission to lend / invest / provide guarantee or security or the like in other entities identified by such constituents. Similarly, the Bank accepts deposits from its constituents, who may instruct the Bank to lend/invest/provide guarantee or security or the like against such deposit in other entities identified by such constituents.</p>",
+    "label": 0
+  },
+  {
+    "text": "<p>These transactions are part of Bank’s normal banking business, which is conducted after exercising proper due diligence including adherence to “Know Your Customer” guidelines as applicable in respective jurisdiction.</p>",
+    "label": 0
+  },
+  {
+    "text": "<p>Other than the nature of transactions described above, the Bank has not advanced / lent / invested / provided guarantee or security to or in any other person with an understanding to lend / invest / provide guarantee or security or the like to or in any other person. Similarly, other than the nature of transactions described above, the Bank has not received any funds from any other person with an understanding that the Bank shall lend / invest / provide guarantee or security or the like to or in any other person.</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><a href=\"#_37\" style=\"color:#003399;\">37. Audit trail</a></h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>As per the requirements of rule 3(1) of the Companies (Accounts) Rules 2014 the Bank uses only such accounting software for maintaining its books of account that have a feature of recording audit trail (edit log). This feature of recording audit trail has operated throughout the year and was not tampered with, except that the audit trail feature was not enabled for part of the year for certain masters in two accounting software and two databases, and throughout the year for other databases. Further, the Bank has preserved the audit trail for the prior financial year in compliance with statutory record retention requirements, except in relation to certain software and databases for which audit trail feature was not enabled. The Bank has established and maintained an adequate internal control framework and based on its assessment, believes that this was effective as of March 31, 2025.</p>",
+    "label": 0
+  },
+  {
+    "text": "",
+    "label": 0
+  },
+  {
+    "text": "<h3><a href=\"#_38\" style=\"color:#003399;\">38. Comparative figures</a></h3>",
+    "label": 1
+  },
+  {
+    "text": "<p>Figures for the previous year have been regrouped and reclassified wherever necessary to conform to the current year’s presentation. The previous year comparative numbers were jointly audited by M M Nissim & Co LLP, Chartered Accountants and Price Waterhouse LLP, Chartered Accountants.</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Note 3 : Property, Plant and Equipment and Right -of-Use Assets</h3>",
+    "label": 1
+  },
+  {
+    "text": "Note 3 : Property, Plant and Equipment and Right -of-Use Assets",
+    "label": 1
+  },
+  {
+    "text": "<p>Property, Plant and Equipment (PPE) are stated at cost, net of accumulated depreciation and accumulated impairment losses, if any. The cost comprises purchase price, including import duties and non- refundable purchase taxes, borrowing costs, if recognition criteria are met and any directly attributable cost of bringing the asset to its working condition for the intended use. Any trade discounts and rebates are deducted in arriving at the purchase price.</p>",
+    "label": 0
+  },
+  {
+    "text": "<h4>Accounting policy</h4>",
+    "label": 0
+  },
+  {
+    "text": "<p>Items of stores and spares that meet the definition of PPE are capitalized at cost. Otherwise, such items are classified as inventories.</p>",
+    "label": 0
+  },
+  {
+    "text": "<p>Subsequent expenditure related to an item of PPE is capitalised only when it is probable that future economic benefits associated with these will flow to the Company and the cost of the item can be measured reliably. Such cost includes the cost of replacing part of the plant and equipment. When significant parts of plant and equipment are required to be replaced at intervals, the Company depreciates them separately based on their specific useful lives. Likewise, when a major inspection is performed, its cost is recognised in the carrying amount of the plant and equipment as a replacement if the recognition criteria are satisfied. All other repair and maintenance costs are recognised in the Statement of Profit and Loss as incurred.</p>",
+    "label": 0
+  },
+  {
+    "text": "<p>Gains or losses arising from derecognition of the assets are measured as the difference between the net disposal proceeds and the carrying amount of the asset and are recognized in the Statement of Profit and Loss when the asset is derecognized.</p>",
+    "label": 0
+  },
+  {
+    "text": "<p>Catalysts which are used in commissioning of new plant are capitalized and are amortized based on the estimated useful life as technically assessed. Subsequent issues of catalysts, if any, are treated as inventory.</p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Note 4A : Other Intangible Assets</b><br>",
+    "label": 1
+  },
+  {
+    "text": "Note 4A : Other Intangible Assets",
+    "label": 1
+  },
+  {
+    "text": "<p>Depreciation on PPE is calculated using the straight-line method to allocate their cost, net of their residual values, over their useful lives estimated by the management based on technical evaluation, which are equal to the useful life prescribed under Schedule II to the Companies Act, 2013, other than the cases as mentioned in table below from S.No. (i) to (vi), where the useful lives are different from those prescribed in Schedule II to the Companies Act, 2013. The management believes that these estimated useful lives are realistic and reflect fair approximation of the period over which the assets are likely to be used. A major portion of the plant and equipment of the Company has been considered as continuous process plant.</p>",
+    "label": 0
+  },
+  {
+    "text": "<caption><b>Intangible assets under development ageing schedule</b></caption>",
+    "label": 0
+  },
+  {
+    "text": "<b>Accounting policy</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": "<caption>As at March 31, 2024 (Rs. in Crore)</caption>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<td colspan='3'><b>Non-Current Financial Assets</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td colspan='3'><b>Note 5A : Non-Current Investments</b></td>",
+    "label": 1
+  },
+  {
+    "text": "Note 5A : Non-Current Investments",
+    "label": 1
+  },
+  {
+    "text": "<tr>",
+    "label": 0
+  },
+  {
+    "text": " <td colspan='3'><b>For Accounting policy refer note 38</b></td>",
+    "label": 0
+  },
+  {
+    "text": " <td colspan='3'><b>A. Investment carried at Cost</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td colspan='3'><b>Equity Instruments (Unquoted)</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td colspan='3'><b>Subsidiary Companies</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td>3.60</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>- 94,00,000 (Previous Year: 94,00,000) equity shares of Rs.10 each fully paid up in Chambal Infrastructure Ventures Limited</td>",
+    "label": 0
+  },
+  {
+    "text": "</tr>",
+    "label": 0
+  },
+  {
+    "text": "<td>3.60</td>",
+    "label": 0
+  },
+  {
+    "text": "<tr><td>(a)&nbsp; Loans Receivables Considered Good - Secured</td><td align='right'>0.07</td><td align='right'>0.12</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>Note 5B : Non Current Loans</b></td>",
+    "label": 1
+  },
+  {
+    "text": "Note 5B : Non Current Loans",
+    "label": 1
+  },
+  {
+    "text": "<tr><td>(c)&nbsp; Loans Receivables which have significant increase in Credit Risk</td><td align='right'>-</td><td align='right'>-</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr><td>(b)&nbsp; Loans Receivables Considered Good - Unsecured</td><td align='right'>0.03</td><td align='right'>0.04</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>Note 5C : Other Non Current Financial Assets</b><br>(Unsecured, Considered Good)</td><td></td><td></td>",
+    "label": 1
+  },
+  {
+    "text": "Note 5C : Other Non Current Financial Assets</b><br>(Unsecured, Considered Good)",
+    "label": 1
+  },
+  {
+    "text": "<tr><td>(d)&nbsp; Loans Receivables credit impaired</td><td align='right'>-</td><td align='right'>-</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr><td>Deposit with Banks having maturity more than 12 months (refer note 8D)</td><td align='right'>0.03</td><td align='right'>0.03</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr><td>Security Deposits</td><td align='right'>3.87</td><td align='right'>3.69</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>Note 6 : Other Non-Current Assets</b><br>(Unsecured, Considered Good)</td><td></td><td></td>",
+    "label": 1
+  },
+  {
+    "text": "Note 6 : Other Non-Current Assets</b><br>(Unsecured, Considered Good)",
+    "label": 1
+  },
+  {
+    "text": "<tr style='background-color:#ccc;'><td><b> </b></td><td align='right'><b>3.90</b></td><td align='right'><b>3.72</b></td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr><td>Catalysts in use (valued based on life technically assessed)</td><td align='right'>6.16</td><td align='right'>11.09</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<tr><td>Capital Advances</td><td align='right'>158.76</td><td align='right'>69.28</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Note 7 : Inventories</b><br>",
+    "label": 1
+  },
+  {
+    "text": "Note 7 : Inventories",
+    "label": 1
+  },
+  {
+    "text": "<tr><td>Prepaid Expenses</td><td align='right'>1.97</td><td align='right'>2.89</td></tr>",
+    "label": 0
+  },
+  {
+    "text": "<b>Inventories are valued as follows:</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<b>Accounting Policy</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<td>Traded Products</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>Work in Process and Finished Goods</td>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>Current Financial Assets</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<td>Spares and Lubricants *</td>",
+    "label": 0
+  },
+  {
+    "text": "For Accounting policy refer note 38<br>",
+    "label": 0
+  },
+  {
+    "text": "<b>Note 8A : Current Investments</b><br>",
+    "label": 1
+  },
+  {
+    "text": "Note 8A : Current Investments",
+    "label": 1
+  },
+  {
+    "text": "<b>Unquoted</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<b>Investment carried at Fair Value through Profit or Loss</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<b>Note 8B : Trade Receivables</b><br/>",
+    "label": 1
+  },
+  {
+    "text": "Note 8B : Trade Receivables",
+    "label": 1
+  },
+  {
+    "text": "<b>Investment in Mutual Funds</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<b>Contract Assets</b><br/>",
+    "label": 0
+  },
+  {
+    "text": "<b>Accounting Policy</b><br/>",
+    "label": 0
+  },
+  {
+    "text": "<b>Trade Receivables</b><br/>",
+    "label": 0
+  },
+  {
+    "text": "A contract asset is the right to consideration in exchange for goods or services transferred to the customer. If the Company fulfils its performance obligation by transferring goods or services to a customer before the customer pays consideration or before payment is due, a contract asset is recognised for the earned consideration that is conditional.<br/>",
+    "label": 0
+  },
+  {
+    "text": "(Rs. in Crore)",
+    "label": 0
+  },
+  {
+    "text": "A receivable represents the company’s right to an amount of consideration that is unconditional (i.e., only the passage of time is required before payment of the consideration is due).<br/>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>Balances with Banks :</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td colspan='3'><b>Note 8C : Cash and Cash Equivalents</b></td>",
+    "label": 1
+  },
+  {
+    "text": "<td>Deposits with original maturity of less than 3 months</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>&nbsp;&nbsp;&nbsp;&nbsp;On Cash Credit Accounts</td>",
+    "label": 0
+  },
+  {
+    "text": "<td colspan='3'><b>Note 8E : Current Loans</b></td>",
+    "label": 1
+  },
+  {
+    "text": "<td colspan='3'><b>Note 8D : Bank Balances other than 8C above</b></td>",
+    "label": 1
+  },
+  {
+    "text": "<td>(b) Loans Receivables Considered Good - Unsecured</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>(a) Loans Receivables Considered Good - Secured</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>(d) Loans Receivables credit impaired</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>(c) Loans Receivables which have significant increase in Credit Risk</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>Others:<br>Receivable from Gas Pool Operator<br>Receivable from Joint Venture (refer note 29)<br>Insurance and Other Claims Receivable<br>Interest Receivable on Deposits<br>Rebates and Other General Receivables</td>",
+    "label": 0
+  },
+  {
+    "text": "<td colspan='3'><b>Note 8F : Other Current Financial Assets</b><br>(Unsecured and Considered Good, except to the extent stated)<br>Security Deposits</td>",
+    "label": 1
+  },
+  {
+    "text": "<td>Less: Allowance for Doubtful Debts / Advance</td>",
+    "label": 0
+  },
+  {
+    "text": "<td colspan='3'><b>Note 9 : Other Current Assets</b><br>(Unsecured and Considered Good, except to the extent stated)<br>Advances to Suppliers<br>(Considered Doubtful Rs. 0.19 Crore (Previous Year : Rs. 0.33 Crore))<br>Balances with Statutory / Government Authorities<br>(Considered Doubtful Rs. 5.44 Crore (Previous Year: Rs. 5.44 Crore))<br>Interest Receivable - Others<br>Prepaid Expenses<br>Other General Receivables</td>",
+    "label": 1
+  },
+  {
+    "text": "<p><b>a) Reconciliation of the Shares Outstanding at the beginning and at the end of the Reporting Periods</b><br>(Rs. in Crore)</p>",
+    "label": 0
+  },
+  {
+    "text": "<td colspan='3'><b>Note 10 : Share Capital</b><br><b>Authorised :</b><br>44,00,00,000 (Previous Year : 44,00,00,000 ) Equity Shares of Rs.10 each<br>21,00,00,000 (Previous Year : 21,00,00,000) Redeemable Preference Shares of Rs.10 each</td>",
+    "label": 1
+  },
+  {
+    "text": "<td>(a) Securities Premium</td>",
+    "label": 0
+  },
+  {
+    "text": "<td><b>Note 10A : Other Equity *</b><br><b>Reserves and Surplus:</b></td>",
+    "label": 1
+  },
+  {
+    "text": "<td>(c) General Reserve</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>(b) Retained Earnings</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>(e) Loss on Treasury Shares Acquired</td>",
+    "label": 0
+  },
+  {
+    "text": "<td>(d) Treasury Shares</td>",
+    "label": 0
+  },
+  {
+    "text": "<h2>Note 12 : Long Term Provisions</h2>",
+    "label": 1
+  },
+  {
+    "text": "Note 11A: Non Current Borrowings",
+    "label": 1
+  },
+  {
+    "text": "<h4>Accounting Policy</h4>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Provision for Employee Benefits</h3>",
+    "label": 0
+  },
+  {
+    "text": "<p>Other Employee Benefits Obligations</p>",
+    "label": 0
+  },
+  {
+    "text": "<h2>Note 13 : Other Non Current Liabilities</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h3>Note 14A : Current Borrowings</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h2>Current Financial Liabilities</h2>",
+    "label": 0
+  },
+  {
+    "text": "<h5>From Banks:</h5>",
+    "label": 0
+  },
+  {
+    "text": "<h4>Secured Loans:</h4>",
+    "label": 0
+  },
+  {
+    "text": "<h4>Nature of Security, Terms and Repayment Schedule:</h4>",
+    "label": 0
+  },
+  {
+    "text": "<p>- Foreign Currency Loans (refer below note)<br />Current Maturity of Long Term Borrowings (refer note 11A)</p>",
+    "label": 0
+  },
+  {
+    "text": "<b>Note 14C : Other Financial Liabilities</b><br />",
+    "label": 1
+  },
+  {
+    "text": "<b>Note 14B : Trade Payables</b>",
+    "label": 1
+  },
+  {
+    "text": "<p><b>Accounting Policy</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Note 15 : Other Current Liabilities</b></p>",
+    "label": 1
+  },
+  {
+    "text": "<b>Note 16 : Current Provisions<br />",
+    "label": 1
+  },
+  {
+    "text": "<b>Note 16 : Current Provisions<br />For Accounting policy refer note 12</b>",
+    "label": 1
+  },
+  {
+    "text": "<p><b>Note 17 : Revenue from Operations</b></p>",
+    "label": 1
+  },
+  {
+    "text": "Note 16 : Current Provisions",
+    "label": 1
+  },
+  {
+    "text": "Note 17 : Revenue from Operations",
+    "label": 1
+  },
+  {
+    "text": "<b>Note 17 : Revenue from Operations</b>",
+    "label": 1
+  },
+  {
+    "text": "Revenue recognition",
+    "label": 0
+  },
+  {
+    "text": "<b>Revenue recognition</b><br />",
+    "label": 0
+  },
+  {
+    "text": "<b>Note 18 : Other Income</b><br />",
+    "label": 1
+  },
+  {
+    "text": "<b>Sale of Goods</b>",
+    "label": 0
+  },
+  {
+    "text": "<b>Accounting Policy</b><br />",
+    "label": 0
+  },
+  {
+    "text": "Note 18 : Other Income",
+    "label": 1
+  },
+  {
+    "text": "(i) <b>Interest Income</b>",
+    "label": 0
+  },
+  {
+    "text": "Accounting Policy",
+    "label": 0
+  },
+  {
+    "text": "(iii) <b>Insurance Claims</b>",
+    "label": 0
+  },
+  {
+    "text": "(ii) <b>Dividend Income</b>",
+    "label": 0
+  },
+  {
+    "text": "Note 19 : Cost of Materials Consumed",
+    "label": 1
+  },
+  {
+    "text": "<td colspan='3'><b>Note 19 : Cost of Materials Consumed</b></td>",
+    "label": 1
+  },
+  {
+    "text": "Note 20 : Changes in Inventories of Finished Goods, Stock-in-Trade and Work-in-Progress",
+    "label": 1
+  },
+  {
+    "text": "<b>Note 20 : Changes in Inventories of Finished Goods, Stock-in-Trade and Work-in-Progress</b>",
+    "label": 1
+  },
+  {
+    "text": "Note 21 : Employee Benefits Expense",
+    "label": 1
+  },
+  {
+    "text": "<td colspan='3'><b>Note 21 : Employee Benefits Expense</b></td>",
+    "label": 1
+  },
+  {
+    "text": "<td><b>Note 23 : Other Expenses</b></td>",
+    "label": 1
+  },
+  {
+    "text": "Note 22 : Finance Costs",
+    "label": 1
+  },
+  {
+    "text": "<h3>Note 24 : Earnings Per Share (EPS)</h3>",
+    "label": 1
+  },
+  {
+    "text": "Note 23 : Other Expenses",
+    "label": 1
+  },
+  {
+    "text": "25 Contingent Liabilities and Contingent Assets:",
+    "label": 1
+  },
+  {
+    "text": "<h3>25 Contingent Liabilities and Contingent Assets:</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h5>Accounting Policy</h5>",
+    "label": 0
+  },
+  {
+    "text": "<h4>(i) <u>Contingent Liabilities (not provided for) in respect of :</u></h4>",
+    "label": 0
+  },
+  {
+    "text": "<b>26 Capital Commitments</b>",
+    "label": 1
+  },
+  {
+    "text": "<p><b>26 Capital Commitments</b></p>",
+    "label": 1
+  },
+  {
+    "text": "<p><b>27 Capitalisation of Expenditure</b></p>",
+    "label": 1
+  },
+  {
+    "text": "26 Capital Commitments",
+    "label": 1
+  },
+  {
+    "text": "27 Capitalisation of Expenditure",
+    "label": 1
+  },
+  {
+    "text": "<b>27 Capitalisation of Expenditure</b>",
+    "label": 1
+  },
+  {
+    "text": "<td><b>Add : Expenditure during the year</b></td>",
+    "label": 0
+  },
+  {
+    "text": "<td>Opening Balance</td>",
+    "label": 0
+  },
+  {
+    "text": "<h2>28. Segment Information</h2>",
+    "label": 1
+  },
+  {
+    "text": "Add : Expenditure during the year",
+    "label": 0
+  },
+  {
+    "text": "<h3>Operating Segment</h3>",
+    "label": 0
+  },
+  {
+    "text": "28. Segment Information",
+    "label": 1
+  },
+  {
+    "text": "<p><b>Own Manufactured Fertilisers</b> segment includes manufacture and marketing of Urea.</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Accounting Policy</h3>",
+    "label": 0
+  },
+  {
+    "text": "Accounting Policy",
+    "label": 0
+  },
+  {
+    "text": "Operating Segment",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Reconciliation of Assets</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Reconciliation of Assets</b><br />(Rs. in Crore)</p>",
+    "label": 0
+  },
+  {
+    "text": "29 Related Party Transactions",
+    "label": 1
+  },
+  {
+    "text": "Reconciliation of Assets",
+    "label": 0
+  },
+  {
+    "text": "<b>29 Related Party Transactions</b>",
+    "label": 1
+  },
+  {
+    "text": "<h2><b>29 Related Party Transactions</b></h2>",
+    "label": 1
+  },
+  {
+    "text": "30 Gratuity and Other Employment Benefit Plans:",
+    "label": 1
+  },
+  {
+    "text": "<h2>29 Related Party Transactions</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h2>31 Subsidies</h2>",
+    "label": 1
+  },
+  {
+    "text": "<b>30 Gratuity and Other Employment Benefit Plans:</b>",
+    "label": 1
+  },
+  {
+    "text": "<h2>32 Leases</h2>",
+    "label": 1
+  },
+  {
+    "text": "31 Subsidies",
+    "label": 1
+  },
+  {
+    "text": "<h4>Company as a lessee:</h4>",
+    "label": 0
+  },
+  {
+    "text": "32 Leases",
+    "label": 1
+  },
+  {
+    "text": "33 Details of dues to Micro and Small Enterprises as per ‘The Micro, Small and Medium Enterprise Development Act, 2006’ (MSMED) :",
+    "label": 1
+  },
+  {
+    "text": "<b>33 Details of dues to Micro and Small Enterprises as per ‘The Micro, Small and Medium Enterprise Development Act, 2006’ (MSMED) :</b>",
+    "label": 1
+  },
+  {
+    "text": "<b>The disclosures in respect of Corporate Social Responsibility Expenditure are as follows:-</b>",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>The disclosures in respect of Corporate Social Responsibility Expenditure are as follows:-</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>Share Based Payments</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "The disclosures in respect of Corporate Social Responsibility Expenditure are as follows:-",
+    "label": 1
+  },
+  {
+    "text": "<h3>Income Tax Expense</h3>",
+    "label": 1
+  },
+  {
+    "text": "35 Share Based Payments",
+    "label": 1
+  },
+  {
+    "text": "36 Income Tax Expense",
+    "label": 1
+  },
+  {
+    "text": "<h3>36 Income Tax Expense</h3>",
+    "label": 1
+  },
+  {
+    "text": "37 Fair Values",
+    "label": 1
+  },
+  {
+    "text": "<h3>37 Fair Values</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h2>38 Fair Value Measurements</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h2>Fair Value Measurements</h2>",
+    "label": 1
+  },
+  {
+    "text": "<h3>Derivative Financial Instruments</h3>",
+    "label": 0
+  },
+  {
+    "text": "38 Fair Value Measurements",
+    "label": 1
+  },
+  {
+    "text": "<li><b>Financial assets</b></li>",
+    "label": 0
+  },
+  {
+    "text": "<h4>Initial Recognition and Subsequent Measurement</h4>",
+    "label": 0
+  },
+  {
+    "text": "<h2>Debt Instruments at FVTPL</h2>",
+    "label": 0
+  },
+  {
+    "text": "<h4>Initial Recognition and Measurement</h4>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Derecognition</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Equity Instruments</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Loans and Borrowings</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Impairment of Financial Assets</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>39 Financial Risk Management Objectives and Policies</h3>",
+    "label": 1
+  },
+  {
+    "text": "<p><b>(i) Financial Instruments by Category</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Capital Management</h3>",
+    "label": 1
+  },
+  {
+    "text": "39 Financial Risk Management Objectives and Policies",
+    "label": 1
+  },
+  {
+    "text": "<h3>40 Capital Management</h3>",
+    "label": 1
+  },
+  {
+    "text": "40 Capital Management",
+    "label": 1
+  },
+  {
+    "text": "<h3>41 Distribution Made and Proposed</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3>Distribution Made and Proposed</h3>",
+    "label": 1
+  },
+  {
+    "text": "<b>42 Assets classified as Held for Sale</b><br />",
+    "label": 1
+  },
+  {
+    "text": "41 Distribution Made and Proposed",
+    "label": 1
+  },
+  {
+    "text": "42 Assets classified as Held for Sale",
+    "label": 1
+  },
+  {
+    "text": "<b>42 Assets classified as Held for Sale</b>",
+    "label": 1
+  },
+  {
+    "text": "<b>43 Disclosure required under Section 186 (4) of the Companies Act, 2013</b>",
+    "label": 1
+  },
+  {
+    "text": "<b>43 Disclosure required under Section 186 (4) of the Companies Act, 2013</b><br />",
+    "label": 1
+  },
+  {
+    "text": "<p><b>44 List of Subsidiaries and Joint Venture with Ownership % and Place of Business :</b></p>",
+    "label": 1
+  },
+  {
+    "text": "43 Disclosure required under Section 186 (4) of the Companies Act, 2013",
+    "label": 1
+  },
+  {
+    "text": "44 List of Subsidiaries and Joint Venture with Ownership % and Place of Business :",
+    "label": 1
+  },
+  {
+    "text": "<p>44 List of Subsidiaries and Joint Venture with Ownership % and Place of Business :</p>",
+    "label": 1
+  },
+  {
+    "text": "<h3>45 Changes in Financial Liabilities arising from Financing Activities for Financial Year 2023-24</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3>Changes in Financial Liabilities arising from Financing Activities for Financial Year 2022-23</h3>",
+    "label": 0
+  },
+  {
+    "text": "Disclosure as per Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (‘Listing Regulations’)",
+    "label": 1
+  },
+  {
+    "text": "45 Changes in Financial Liabilities arising from Financing Activities for Financial Year 2023-24",
+    "label": 1
+  },
+  {
+    "text": "<h3>Disclosure as per Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (‘Listing Regulations’)</h3>",
+    "label": 1
+  },
+  {
+    "text": "46 Disclosure as per Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (‘Listing Regulations’)",
+    "label": 1
+  },
+  {
+    "text": "<h3>Additional regulatory information required by Schedule III of Companies Act, 2013</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3>46 Disclosure as per Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (‘Listing Regulations’)</h3>",
+    "label": 1
+  },
+  {
+    "text": "47 Additional regulatory information required by Schedule III of Companies Act, 2013",
+    "label": 1
+  },
+  {
+    "text": "<h3>47 Additional regulatory information required by Schedule III of Companies Act, 2013</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h2>Significant Accounting Judgements, Estimates and Assumptions</h2>",
+    "label": 1
+  },
+  {
+    "text": "Additional regulatory information required by Schedule III of Companies Act, 2013",
+    "label": 1
+  },
+  {
+    "text": "Significant Accounting Judgements, Estimates and Assumptions",
+    "label": 1
+  },
+  {
+    "text": "<h2>48 Significant Accounting Judgements, Estimates and Assumptions</h2>",
+    "label": 1
+  },
+  {
+    "text": "<b>a) Property, Plant and Equipment</b><br />",
+    "label": 0
+  },
+  {
+    "text": "48 Significant Accounting Judgements, Estimates and Assumptions",
+    "label": 1
+  },
+  {
+    "text": "<p><b>c) Defined Benefit Plans</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<b>b) Income Taxes</b><br />",
+    "label": 0
+  },
+  {
+    "text": "<p><b>e) Fair Value Measurement of Financial Instruments</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>d) Revenue</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<b>(A) General information</b>",
+    "label": 0
+  },
+  {
+    "text": "<b>(B) Material Accounting policies</b>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Sale of goods</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Export Benefits</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Dividend income</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Interest income</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<p><b><span style='color: #009900;''>(e) Property, Plant and Equipment (PPE)</span></b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p>The cost of an item of PPE comprises:</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3>iii. Depreciation</h3>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>(f) Investment properties</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>(g) Intangible assets</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>(h) Impairment of non-financial assets</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>(i) <span style='color:green;'>Borrowing cost</span></b><br>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>(j) <span style='color:green;'>Lease</span></b><br>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>i. Current tax</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>ii. Deferred tax</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>(l) Cash and cash equivalents</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>(o) Financial instruments</b><br>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 2 PROPERTY, PLANT AND EQUIPMENTS AS AT 31<sup>ST</sup> MARCH, 2025</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 2 PROPERTY, PLANT AND EQUIPMENTS AS AT 31<sup>ST</sup> MARCH, 2025",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>PROPERTY, PLANT AND EQUIPMENTS AS AT 31<sup>ST</sup> MARCH, 2024</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "PROPERTY, PLANT AND EQUIPMENTS AS AT 31  MARCH, 2024",
+    "label": 0
+  },
+  {
+    "text": "<b>NOTE NO. 2A CAPITAL WORK-IN-PROGRESS AGEING AS AT 31<sup>ST</sup> MARCH, 2025</b> <span>(₹ in Crores)</span>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 2A CAPITAL WORK-IN-PROGRESS AGEING AS AT 31 MARCH, 2025 (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "<b>CAPITAL WORK-IN-PROGRESS AGEING AS AT 31<sup>ST</sup> MARCH, 2024</b> <span>(₹ in Crores)</span>",
+    "label": 0
+  },
+  {
+    "text": "CAPITAL WORK-IN-PROGRESS AGEING AS AT 31 MARCH, 2024 (₹ in Crores)",
+    "label": 0
+  },
+  {
+    "text": "<b>NOTE NO. 3 INVESTMENT PROPERTY AS AT 31<sup>ST</sup> MARCH, 2025</b> <span>(₹ in Crores)</span>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 3 INVESTMENT PROPERTY AS AT 31ST MARCH, 2025 (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "<h3>INVESTMENT PROPERTY AS AT 31<sup>ST</sup> MARCH, 2024</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>i) Amounts recognised in Profit and Loss for Investment Properties</h3>",
+    "label": 0
+  },
+  {
+    "text": "<b>Estimation of fair value</b><br />",
+    "label": 0
+  },
+  {
+    "text": "<h3>NOTE NO. 4 INTANGIBLE ASSETS AS AT 31<sup>ST</sup> MARCH, 2025</h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 4 INTANGIBLE ASSETS AS AT 31ST MARCH, 2025",
+    "label": 1
+  },
+  {
+    "text": "<h3>INTANGIBLE ASSETS AS AT 31<sup>ST</sup> MARCH, 2024</h3>",
+    "label": 0
+  },
+  {
+    "text": "INTANGIBLE ASSETS AS AT 31 MARCH, 2024",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 4A RIGHT-OF-USE ASSETS</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "<b>NOTE NO. 4A RIGHT-OF-USE ASSETS</b>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 4A RIGHT-OF-USE ASSETS",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 5 INVESTMENTS (NON-CURRENT)</b><br />(₹ in Crores)</h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 5 INVESTMENTS (NON-CURRENT)</b><br /></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 5 INVESTMENTS (NON-CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 5 INVESTMENTS (NON-CURRENT) (Contd.)</b> <span>(₹ in Crores)</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 5 INVESTMENTS (NON-CURRENT) (Contd.) (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "<b>NOTE NO. 5 INVESTMENTS (NON-CURRENT) (Contd.)</b>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 5 INVESTMENTS (NON-CURRENT) (Contd.)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 6 OTHER FINANCIAL ASSETS (NON-CURRENT)</b> <i>(₹ in Crores)</i></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 6 OTHER FINANCIAL ASSETS (NON-CURRENT) (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 6 OTHER FINANCIAL ASSETS (NON-CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 6 OTHER FINANCIAL ASSETS (NON-CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 7 INCOME TAX ASSETS (NET)</b> <i>(₹ in Crores)</i></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 7 INCOME TAX ASSETS (NET) (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "<b>NOTE NO. 7 INCOME TAX ASSETS (NET)</b> <i>(₹ in Crores)</i>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 7 INCOME TAX ASSETS (NET)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 8 OTHER NON-CURRENT ASSETS</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 8 OTHER NON-CURRENT ASSETS",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 9 INVENTORIES</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 9 INVENTORIES",
+    "label": 1
+  },
+  {
+    "text": "<p>(₹ in Crores)</p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 10 INVESTMENTS (CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 10 INVESTMENTS (CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<p><b>b) Investment in Equity instruments</b></p>",
+    "label": 0
+  },
+  {
+    "text": "b) Investment in Equity instruments",
+    "label": 0
+  },
+  {
+    "text": "<b>d) Investment in Alternate Investment Fund</b><br />",
+    "label": 0
+  },
+  {
+    "text": "<p><b>a) Investment in Perpetual Bond</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 11 TRADE RECEIVABLES</b> <span>(₹ in Crores)</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 11 TRADE RECEIVABLES (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 11 TRADE RECEIVABLES",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 12 CASH AND CASH EQUIVALENTS</b> <span>(₹ in Crores)</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 12 CASH AND CASH EQUIVALENTS (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 12 CASH AND CASH EQUIVALENTS",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 13 OTHER BANK BALANCES</b> <span>(₹ in Crores)</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 13 OTHER BANK BALANCES (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 13 OTHER BANK BALANCES",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 14 LOANS</b> <span>(₹ in Crores)</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 14 LOANS (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 14 LOANS",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 15 OTHER FINANCIAL ASSETS (CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 15 OTHER FINANCIAL ASSETS (CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 16 OTHER CURRENT ASSETS</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 16 OTHER CURRENT ASSETS",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 17 SHARE CAPITAL</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 17 SHARE CAPITAL",
+    "label": 1
+  },
+  {
+    "text": "<th>Equity Share</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>Number of Shares</th>",
+    "label": 0
+  },
+  {
+    "text": "<th>Number of Shares</th>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Shares held by the promoters and promoters group at the end of the year</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 17 SHARE CAPITAL (Contd.)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 17 SHARE CAPITAL (Contd.)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 18 OTHER EQUITY</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 18 OTHER EQUITY",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 19 BORROWINGS (NON-CURRENT)</b> <span style='float: right'>(₹ in Crores)</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 19 BORROWINGS (NON-CURRENT) (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 19 BORROWINGS (NON-CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 19 BORROWINGS (NON-CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 19A LEASE LIABILITIES (NON-CURRENT)</b> <span style='float: right'>(₹ in Crores)</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 19A LEASE LIABILITIES (NON-CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 19A LEASE LIABILITIES (NON-CURRENT) (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 19A LEASE LIABILITIES (NON-CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 20 OTHER FINANCIAL LIABILITIES (NON-CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 20 OTHER FINANCIAL LIABILITIES (NON-CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 21 PROVISIONS (NON-CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 21 PROVISIONS (NON-CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 22 DEFERRED TAX LIABILITIES (NET)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 22 DEFERRED TAX LIABILITIES (NET)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 23 OTHER NON-CURRENT LIABILITIES</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 23 OTHER NON-CURRENT LIABILITIES",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 24 BORROWINGS (CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 24 BORROWINGS (CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 24A LEASE LIABILITIES (CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 24A LEASE LIABILITIES (CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 25 TRADE PAYABLES (CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 25 TRADE PAYABLES (CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 26 OTHER FINANCIAL LIABILITIES (CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 26 OTHER FINANCIAL LIABILITIES (CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 27 OTHER CURRENT LIABILITIES</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 27 OTHER CURRENT LIABILITIES",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 28 PROVISIONS (CURRENT)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 28 PROVISIONS (CURRENT)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 29 REVENUE FROM OPERATIONS</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 29 REVENUE FROM OPERATIONS",
+    "label": 1
+  },
+  {
+    "text": "<p><b>DISAGGREGATION OF REVENUE</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<p>Revenue based on Geography</p>",
+    "label": 0
+  },
+  {
+    "text": "<p># (Including export incentive)</p>",
+    "label": 0
+  },
+  {
+    "text": "<p><b>Reconciliation of Revenue from operations with contract price</b></p>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 30 OTHER INCOME</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 30 OTHER INCOME",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 31 COST OF MATERIAL CONSUMED</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 31 COST OF MATERIAL CONSUMED",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 32 PURCHASE OF STOCK-IN-TRADE</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 32 PURCHASE OF STOCK-IN-TRADE",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 33 CHANGES IN INVENTORIES OF FINISHED GOODS,WORK-IN-PROGRESS AND STOCK-IN-TRADE</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 33 CHANGES IN INVENTORIES OF FINISHED GOODS,WORK-IN-PROGRESS AND STOCK-IN-TRADE",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 34 EMPLOYEE BENEFITS EXPENSE</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 34 EMPLOYEE BENEFITS EXPENSE",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 35 FINANCE COST*</b> <span>(₹ in Crores)</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 35 FINANCE COST* (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 35 FINANCE COST",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 36 DEPRECIATION AND AMORTISATION EXPENSE</b> <span>(₹ in Crores)</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 36 DEPRECIATION AND AMORTISATION EXPENSE (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 36 DEPRECIATION AND AMORTISATION EXPENSE",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 37 OTHER EXPENSES</b> <span>(₹ in Crores)</span></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 37 OTHER EXPENSES (₹ in Crores)",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 37 OTHER EXPENSES",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 38</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 38",
+    "label": 1
+  },
+  {
+    "text": "<h3>NOTE NO. 39 FINANCIAL INSTRUMENTS – FAIR VALUES AND RISK MANAGEMENT</h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 39 FINANCIAL INSTRUMENTS – FAIR VALUES AND RISK MANAGEMENT",
+    "label": 1
+  },
+  {
+    "text": "C. Financial risk management",
+    "label": 0
+  },
+  {
+    "text": "<h4><b>Loans to others</b></h4>",
+    "label": 0
+  },
+  {
+    "text": "<h4><b>Concentration of credit risk</b></h4>",
+    "label": 0
+  },
+  {
+    "text": "<h4><b>Investment in debentures and preference shares</b></h4>",
+    "label": 0
+  },
+  {
+    "text": "<h4><b>Investment in mutual funds and bonds</b></h4>",
+    "label": 0
+  },
+  {
+    "text": "<h4><b>Investment in mutual funds and bonds</b></h4>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Exposure to currency risk</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>Sensitivity analysis</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>NOTE NO. 39 FINANCIAL INSTRUMENTS – FAIR VALUES AND RISK MANAGEMENT (Contd.)</h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3>NOTE NO. 40 HEDGE ACCOUNTING</h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 40 HEDGE ACCOUNTING",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 40 HEDGE ACCOUNTING (Contd.)</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 41 CAPITAL MANAGEMENT</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 41 CAPITAL MANAGEMENT",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 42 EARNING PER SHARE (EPS)</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 42 EARNING PER SHARE (EPS)",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 43 RELATED PARTY DISCLOSURES*</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 43 RELATED PARTY DISCLOSURES",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 43 RELATED PARTY DISCLOSURES* (Contd.)</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>II Related Party Transactions $</b> <span>(₹ in Crores)</span></h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>III Key management personnel compensation***</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 43 RELATED PARTY DISCLOSURES* (Contd.)</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "<b>NOTE NO. 44 TRADE PAYABLE AGEING AS AT 31<sup>ST</sup> MARCH, 2025</b> <span>(₹ in Crores)</span>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 44 TRADE PAYABLE AGEING AS AT 31ST MARCH, 2025",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 44 (Contd.)</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 45 EMPLOYEE BENEFIT OBLIGATIONS</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 45 EMPLOYEE BENEFIT OBLIGATIONS",
+    "label": 1
+  },
+  {
+    "text": "<h4><b>(A) Defined Contribution Plan</b></h4>",
+    "label": 0
+  },
+  {
+    "text": "<h4><b>(B) Defined Benefit Plan</b></h4>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 45 EMPLOYEE BENEFIT OBLIGATIONS (Contd.)</b></h3>",
+    "label": 0
+  },
+  {
+    "text": "<b>(D)</b> <b>Expected future cash flows</b><br />",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 46 CONTINGENT LIABILITIES AND COMMITMENTS</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 46 CONTINGENT LIABILITIES AND COMMITMENTS",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 47 REMUNERATION TO AUDITORS*</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 47 REMUNERATION TO AUDITORS*",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 47 REMUNERATION TO AUDITORS",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 48 NATURE OF SECURITY IN RESPECT OF SECURED LOAN</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 48 NATURE OF SECURITY IN RESPECT OF SECURED LOAN",
+    "label": 1
+  },
+  {
+    "text": "<b>NOTE NO. 49 TRADE RECEIVABLE AGEING AS AT 31<sup>ST</sup> MARCH, 2025</b>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 49 TRADE RECEIVABLE AGEING AS AT 31ST MARCH, 2025",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 49 TRADE RECEIVABLE AGEING AS AT 31ST MARCH, 2025",
+    "label": 1
+  },
+  {
+    "text": "<b>TRADE RECEIVABLE AGEING AS AT 31<sup>ST</sup> MARCH, 2024</b>",
+    "label": 0
+  },
+  {
+    "text": "<h3><b>NOTE NO. 50 DIVIDEND PAID AND PROPOSED</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 50 DIVIDEND PAID AND PROPOSED",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 51 CORPORATE SOCIAL RESPONSIBILITY (CSR) ACTIVITY",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 52 RATIOS</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 52 RATIOS",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 53 OTHER STATUTORY INFORMATIONS:</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 53 OTHER STATUTORY INFORMATIONS:",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 54</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 54",
+    "label": 1
+  },
+  {
+    "text": "<h3><b>NOTE NO. 55</b></h3>",
+    "label": 1
+  },
+  {
+    "text": "NOTE NO. 55",
+    "label": 1
+  }
+]
